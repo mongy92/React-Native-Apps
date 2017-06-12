@@ -1,0 +1,91 @@
+[
+  {
+    "id": 0,
+    "title": "1.Intro to Java Programming",
+    "description": "In this course, you'll learn and practice essential computer science concepts using the Java programming language. You'll learn about Object Oriented Programming, a technique that allows you to use code written by other programmers in your own programs.",
+    "url" : "https://www.udacity.com/course/intro-to-java-programming--cs046"
+  },
+  {
+    "id": 1,
+    "title": "2.Android Basics: User Interface",
+    "description": "Learn the basics of Android and Java programming, and take the first step on your journey to becoming an Android developer!. By the end of this course, you will have learned how to build an app’s layout and then practiced those skills by making a birthday card app.",
+    "url" :"https://www.udacity.com/course/android-basics-user-interface--ud834"
+  },
+  {
+    "id": 2,
+    "title": "3.Android Basics: User Input",
+    "description": "By the end of this course, you will have learned how to make your app interactive using buttons and changing text. You will have practiced those skills by making a basketball scores app, and you will have built a full coffee-ordering app.",
+    "url" :"https://www.udacity.com/course/android-basics-user-input--ud836"
+  },
+  {
+    "id": 3,
+    "title": "4.Android Basics: Multiscreen Apps",
+    "description": "Android apps are everywhere and learning to build them can be a fantastic career move. Continue on your Android app development education and learn to build multi-screen apps!. By the end of the course, you’ll build a language-learning app that you can share with your friends.",
+    "url" :"https://www.udacity.com/course/android-basics-multiscreen-apps--ud839"
+  },
+  {
+    "id": 4,
+    "title": "5.Android Basics: Networking",
+    "description": "Learning anything new can be tough. We will walk you through the process of making Android apps, but to get the most out of this course, bring your enthusiasm for learning, and budget time on your calendar to learn with us. It will be an adventure!. By the end of the course, you’ll build an app that gets you up to date earthquake information!",
+    "url" :"https://www.udacity.com/course/android-basics-networking--ud843"
+  },
+  {
+    "id": 5,
+    "title": "6.Android Basics: Data Storage",
+    "description": "In this course, you will learn about the importance of data persistence when building an Android app. We'll introduce you to the fundamentals of SQL, the programming language needed to interact with an SQLite relational database. SQLite is a commonly used method to store large sets of data locally on an Android device. You'll also learn how to work with Content Providers, which help your data storage to be bug free and to be shared, if you choose, with other apps.",
+    "url" :"https://www.udacity.com/course/android-basics-data-storage--ud845"
+  },
+  {
+    "id": 6,
+    "title": "7.Developing Android Apps",
+    "description": "In this course , Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way. In this course, you'll work with instructors step-by-step to build a cloud-connected Android app, and learn best practices of mobile development, and Android development in particular.",
+    "url" :"https://www.udacity.com/course/new-android-fundamentals--ud851"
+  },
+  {
+    "id": 7,
+    "title": "8.Advanced Android App Development",
+    "description": "Ready to level-up your skills as an Android developer? In this course, you will learn how to make your app production-ready by developing a variety of different sample apps, each designed to showcase advanced capabilities of the Android platform, including fragments, widgets, media playback, and testing. You’ll learn how to create UI tests using the Espresso framework, to leverage third-party libraries and services like ExoPlayer and Firebase Cloud Messaging, and use Google APIs to make your app aware of its location. By the end of the course, you’ll know how to publish your own app to the Google Play Store, where you can reach and engage users across the globe.",
+    "url" :"https://www.udacity.com/course/advanced-android-app-development--ud855"
+  },
+  {
+    "id": 8,
+    "title": "9.Gradle for Android and Java",
+    "description": "This course explores how the Gradle build tool compiles and packages apps, and you'll learn to customize the build process. The first half of this course is for anyone interested in Gradle, build automation, and continuous delivery of software. The latter half of the course reveals the magic that happens after you hit the Run button in Android Studio. You'll also explore advanced Android topics, learning to configure free vs paid app flavors, create and integrate Android libraries, test your app, and prepare your app for the Play Store.",
+    "url" :"https://www.udacity.com/course/gradle-for-android-and-java--ud867"
+  },
+  {
+    "id": 9,
+    "title": "10.Material Design for Android Developers",
+    "description": "In this course, you'll learn how to apply the material design principles that define Android's visual language to your apps. We'll start by walking you through Android design fundamentals, then we'll show you how to apply this knowledge to transform design elements of sample apps. By the end of the course, you'll understand how to create and use material design elements, surfaces, transitions and graphics in your app, across multiple form factors.",
+    "url" :"https://www.udacity.com/course/material-design-for-android-developers--ud862"
+  },
+  {
+    "id": 10,
+    "title": "11.Google Location Services on Android",
+    "description": "Vitally important for building the best possible mobile app, the Location and Context API allows your Android app behavior to change based on location. In this course, you’ll learn how to implement this with the Fused Location Provider, which gives you much more than simple GPS. You’ll also learn about Activity recognition, which allows you to tailor your app to what the user is doing. Finally, you’ll learn about Geofencing, and how location services work alongside geofences to allow you to build apps that could be used for augmented reality!",
+    "url" :"https://www.udacity.com/course/google-location-services-on-android--ud876-1"
+  },
+  {
+    "id": 11,
+    "title": "12.Google Analytics for Android",
+    "description": "Where in the world are people using your app? Which activities do they use most? How do they navigate through your app? Take this course to learn how to add code to your mobile app to send usage data to Google Analytics, and get answers to questions like these. This course also covers how to use Google Tag Manager to send updated information to your app without needing to redeploy the APK, and to manage all your Google Analytics tags.",
+    "url" :"http://www.udacity.com/course/ud876-2"
+  },
+  {
+    "id": 12,
+    "title": "13.Monetize Your Android App with Ads",
+    "description": "In this course, you will learn how to monetize apps using Google's AdMob to display banner and interstitial ads.",
+    "url" :"https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3"
+  },
+  {
+    "id": 13,
+    "title": "14.Add Google Maps to your Android App",
+    "description": "In this course, you’ll learn everything from how to add maps to your Android app, to how to build a virtual hike down the Grand Canyon!",
+    "url" :"https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4"
+  },
+  {
+    "id": 14,
+    "title": " "
+  }
+]
+ 
